@@ -1,6 +1,8 @@
 # Customer_Module
 Please Download the Customer folder from Github Repository.
+
 Unzip the folder.
+
 In Customer folder you can see Customer.sln, Open this, which will open the application in Visual Studio(Any From 2015 or newer).
 In Customer Application there is a folder CustomerClasses,which is having the Class Containing the whole logic for Insert,Update and Deletion of Data.
 Form1.cs - you can see how the page will look like.

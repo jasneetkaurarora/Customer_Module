@@ -1,0 +1,10 @@
+C:\Users\Sunpreetsingh\OneDrive\Visual Studio 2017\Projects\Customer\bin\Debug\Customer.exe.config
+C:\Users\Sunpreetsingh\OneDrive\Visual Studio 2017\Projects\Customer\bin\Debug\Customer.exe
+C:\Users\Sunpreetsingh\OneDrive\Visual Studio 2017\Projects\Customer\bin\Debug\Customer.pdb
+C:\Users\Sunpreetsingh\OneDrive\Visual Studio 2017\Projects\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+C:\Users\Sunpreetsingh\OneDrive\Visual Studio 2017\Projects\Customer\obj\Debug\Customer.CustomerForm.resources
+C:\Users\Sunpreetsingh\OneDrive\Visual Studio 2017\Projects\Customer\obj\Debug\Customer.Properties.Resources.resources
+C:\Users\Sunpreetsingh\OneDrive\Visual Studio 2017\Projects\Customer\obj\Debug\Customer.csproj.GenerateResource.cache
+C:\Users\Sunpreetsingh\OneDrive\Visual Studio 2017\Projects\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+C:\Users\Sunpreetsingh\OneDrive\Visual Studio 2017\Projects\Customer\obj\Debug\Customer.exe
+C:\Users\Sunpreetsingh\OneDrive\Visual Studio 2017\Projects\Customer\obj\Debug\Customer.pdb
